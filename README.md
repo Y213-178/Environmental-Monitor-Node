@@ -14,7 +14,7 @@
 
 | 层次 | 技术 |
 |------|------|
-| MCU | STM32F103C8T6 (ARM Cortex-M3, 72MHz) |
+| 微控制器 | STM32F103C8T6 (ARM Cortex-M3, 72MHz) |
 | RTOS | FreeRTOS (多任务: 传感器/网络/显示/看门狗/低功耗) |
 | 通信 | USART1(调试) / USART2(ESP8266) / USART3(PMS5003) / I2C1(SHT30+BH1750) / SPI1(W25Q64) |
 | 云平台 | OneNet MQTT |
